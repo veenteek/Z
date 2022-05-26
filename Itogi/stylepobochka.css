@@ -1,0 +1,31 @@
+body {
+    
+}
+.box {
+    display: inline-block;
+    position: absolute;
+    left: 70%;
+    top: 40%;
+    padding: 5%;
+    border: 3px solid black;
+}
+h2 {
+    text-align: center;
+    background-color: blueviolet;
+    color: wheat;
+    display: block;
+    padding: 3%;
+}
+h4 {
+    display: inline-block;
+    padding: 3%;
+}
+img {
+    padding: 4%;
+}
+.glava_gosudarstva {
+    font-style: normal;
+    font-weight: 400;
+    font-size:larger;
+    background-color: azure;
+}
